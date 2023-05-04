@@ -1,5 +1,5 @@
 
-# Hey Everyone! I'm [Thanusha Reddy] <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [YamalaThanusha] <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/thanusha-reddy-yamala-056aa5270/">
@@ -15,16 +15,15 @@
   <br><br>
   
 ## <p align="center"><h4 align="center"><samp> STUDENT </samp></h4></p>
-<div>
+
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
+  
 - 👋 Hi, I’m @YamalaThanusha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning advanced python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me thanushareddyyamala@gmail.com
-  <br>
-</div>
+  
 
 
 <!---
