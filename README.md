@@ -1,5 +1,5 @@
 
-# Hey Everyone! I'm [Thanusha] <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Thanusha] <img src="https://github.com/YamalaThanusha/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/thanusha-reddy-yamala-056aa5270/">
