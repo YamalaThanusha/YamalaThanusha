@@ -12,6 +12,8 @@
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
+  <br><br>
+  
 ## <p align="center"><h4 align="center"><samp> STUDENT </samp></h4></p>
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
@@ -23,7 +25,7 @@
 - 📫 How to reach me thanushareddyyamala@gmail.com
   <br>
 </div>
-##
+
 
 <!---
 YamalaThanusha/YamalaThanusha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
